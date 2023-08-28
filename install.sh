@@ -14,5 +14,5 @@ fi
 wget -q https://github.com/noxajg/proxy/raw/main/proxy
 sleep 1
 echo -e "${GREEN}Proxy Installed${ENDCOLOR}"
-echo -e "${GREEN}Execute proxy with this command: ./proxy{ENDCOLOR}"
+echo -e "${GREEN}Execute proxy with this command: ./proxy${ENDCOLOR}"
 chmod +x proxy
