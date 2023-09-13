@@ -1,2 +1,2 @@
-# FREE PROXY DONT RESELL
-KEY? CHECK https://t.me/noxprogsi
+# JOIN DISCORD FOR LICENSE
+https://discord.gg/kh5AXPPzkD
