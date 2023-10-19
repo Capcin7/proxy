@@ -1,2 +1,2 @@
-# JOIN DISCORD FOR LICENSE
-https://discord.gg/kh5AXPPzkD
+# DONT RESELL PLEASE ITS FREE PROXY
+https://t.me/capcinproxy
